@@ -1,0 +1,6 @@
+# Local planning and extraction artifacts
+.planning/
+.codex/
+tmp/
+
+# Source resume contains private contact details; the public site uses only the approved profile content.

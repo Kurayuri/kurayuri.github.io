@@ -1,2 +1,8 @@
 # Build
 remote_theme: pages-themes/minimal@v0.2.0
+
+# Site metadata
+title: Zixuan Yang
+description: PhD candidate working on computer systems, networking, and AI infrastructure.
+url: https://kurayuri.github.io
+lang: en
